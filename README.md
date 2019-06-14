@@ -4,8 +4,11 @@
 	Bradley Gallardo - Water & Caustics Effects
 	
 ## Controls:
-	Up/Down Arrows: Raise/Lower height of terrain
-	Left/Right Arrows: Stretch/Squeeze terrain
+| Key        | Action           |
+| ------------- |:-------------:|
+| Arrow Keys / . / ,      | Move the terrain |
+| W/S      | Increase/Decrease the height of the terrain      |
+| D/A | Increase/Decrease the frequency of the terrain     |
 	
 ## Screenshots:
 
