@@ -15,10 +15,10 @@ A Unity project which uses terrain generation and water caustics to create a dre
 	
 ## Screenshots:
 
-#### Tall and Stretched Terrain
+#### Tall and Low Frequency Terrain
 ![Terrain01](Screenshots/Terrain01.png)
 
-#### Low and Squeezed Terrain
+#### Short and High Frequency Terrain
 ![Terrain02](Screenshots/Terrain02.png)
 
 #### Surface Caustics
