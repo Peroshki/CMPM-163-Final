@@ -22,7 +22,7 @@ A Unity project which uses terrain generation and water caustics to create a dre
 ![Terrain02](Screenshots/Terrain02.png)
 
 #### Terrain with Smoke
-![Terrain02](Screenshots/Terrain02.png)
+![Terrain02](Screenshots/Terrain03.png)
 
 #### Surface Caustics
 ![WaterCaustics](Screenshots/WaterCaustics.png)
