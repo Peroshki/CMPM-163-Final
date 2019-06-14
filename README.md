@@ -1,6 +1,6 @@
 # CMPM-163-Final
 
-A Unity project which uses terrain generation, volume rendered fog and water caustics to create a dreamy scene.
+A Unity project which uses terrain generation, volume rendered fog and water caustics to create a dreamy scene. The shaders and scripts created for this project can be found in the assets folder.
 
 ## Collaborators:
 	Alan Vasilkovsky - Terrain Generation, Fog & Controls
