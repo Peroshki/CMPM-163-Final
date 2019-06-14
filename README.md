@@ -3,7 +3,7 @@
 A Unity project which uses terrain generation and water caustics to create a dreamy scene.
 
 ## Collaborators:
-	Alan Vasilkovsky - Terrain Generation & Controls
+	Alan Vasilkovsky - Terrain Generation, Fog & Controls
 	Bradley Gallardo - Water & Caustics Effects
 	
 ## Controls:
@@ -21,7 +21,7 @@ A Unity project which uses terrain generation and water caustics to create a dre
 #### Short and High Frequency Terrain
 ![Terrain02](Screenshots/Terrain02.png)
 
-#### Terrain with Smoke
+#### Terrain with Fog
 ![Terrain02](Screenshots/Terrain03.png)
 
 #### Surface Caustics
