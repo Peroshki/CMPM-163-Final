@@ -6,6 +6,10 @@ A Unity project which uses terrain generation, volume rendered fog and water cau
 	Alan Vasilkovsky - Terrain Generation, Fog & Controls
 	Bradley Gallardo - Water & Caustics Effects
 	
+## Links:
+Video Overview:
+Final Build:
+	
 ## Controls:
 | Key        | Action           |
 | ------------- |:-------------:|
@@ -22,7 +26,10 @@ A Unity project which uses terrain generation, volume rendered fog and water cau
 ![Terrain02](Screenshots/Terrain02.png)
 
 #### Terrain with Fog
-![Terrain02](Screenshots/Terrain03.png)
+![Terrain03](Screenshots/Terrain03.png)
+
+#### More Fog
+![Terrain04](Screenshots/Terrain04.png)
 
 #### Surface Caustics
 ![WaterCaustics](Screenshots/WaterCaustics.png)
