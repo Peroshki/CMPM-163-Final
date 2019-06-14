@@ -1,4 +1,7 @@
 # CMPM-163-Final
+
+A Unity project which uses terrain generation and water caustics to create a dreamy scene.
+
 ## Collaborators:
 	Alan Vasilkovsky - Terrain Generation & Controls
 	Bradley Gallardo - Water & Caustics Effects
