@@ -21,6 +21,9 @@ A Unity project which uses terrain generation and water caustics to create a dre
 #### Short and High Frequency Terrain
 ![Terrain02](Screenshots/Terrain02.png)
 
+#### Terrain with Smoke
+![Terrain02](Screenshots/Terrain02.png)
+
 #### Surface Caustics
 ![WaterCaustics](Screenshots/WaterCaustics.png)
 
